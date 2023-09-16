@@ -1,0 +1,24 @@
+*{
+    align-items: center;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(150, 150, 202);
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 5px 100px;
+}
+table{
+    margin-bottom: 20px;
+}
+.table_head{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(29, 19, 117);
+}
